@@ -5,7 +5,7 @@
 # Profesor: Jesús Salvador López Ortega
 # Grupo: IRC02
 # Archivo: main.py
-# Descripción: Script principal del proyecto
+# Descripción: Script principal del proyecto 
 # ============================================================
 import introduction as intro
 import regression_models as rm
